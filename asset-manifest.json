@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quickysearch/static/css/main.4ff3efac.chunk.css",
+    "main.js": "/quickysearch/static/js/main.61a1f651.chunk.js",
+    "main.js.map": "/quickysearch/static/js/main.61a1f651.chunk.js.map",
+    "runtime-main.js": "/quickysearch/static/js/runtime-main.8fc6e59c.js",
+    "runtime-main.js.map": "/quickysearch/static/js/runtime-main.8fc6e59c.js.map",
+    "static/js/2.5cb92c58.chunk.js": "/quickysearch/static/js/2.5cb92c58.chunk.js",
+    "static/js/2.5cb92c58.chunk.js.map": "/quickysearch/static/js/2.5cb92c58.chunk.js.map",
+    "index.html": "/quickysearch/index.html",
+    "precache-manifest.ddb1c321e2d7a9feb848f3cdf752f8f5.js": "/quickysearch/precache-manifest.ddb1c321e2d7a9feb848f3cdf752f8f5.js",
+    "service-worker.js": "/quickysearch/service-worker.js",
+    "static/css/main.4ff3efac.chunk.css.map": "/quickysearch/static/css/main.4ff3efac.chunk.css.map",
+    "static/js/2.5cb92c58.chunk.js.LICENSE.txt": "/quickysearch/static/js/2.5cb92c58.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/quickysearch/static/media/background_search_mobile.74c52b1b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fc6e59c.js",
+    "static/js/2.5cb92c58.chunk.js",
+    "static/css/main.4ff3efac.chunk.css",
+    "static/js/main.61a1f651.chunk.js"
+  ]
+}
